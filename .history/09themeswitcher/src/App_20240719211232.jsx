@@ -19,6 +19,8 @@ function App() {
   useEffect(() => {
     document.querySelector('html').classList.remove("light", "dark");
     document.querySelector('html').classList.add(themeMode);
+    document.querySelector('body').classList.remove("light", "dark");
+    document.querySelector('body').classList.add(themeMode);
     
   }, [themeMode]);
 

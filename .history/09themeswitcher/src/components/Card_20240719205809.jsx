@@ -7,7 +7,7 @@ export default function Card() {
       <a href="/">
         <img
           className="p-8 rounded-t-lg"
-          src="https://5.imimg.com/data5/IOS/Default/2021/1/AY/AS/DM/114498793/product-jpeg.png"
+          src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.indiamart.com%2Fproddetail%2Fapple-series-6-watch-23090641430.html&psig=AOvVaw3cPmhUWRk8LnyjYYo2W3mG&ust=1721491034235000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDfpYy8s4cDFQAAAAAdAAAAABAE"
           alt="product_image1"
         />
       </a>
